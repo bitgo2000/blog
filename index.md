@@ -60,6 +60,12 @@
  
  [26 Michael Saylor：如何打造世界上拥有比特币最多的公司？为什么决定死后销毁个人私钥](https://chicory2000.github.io/blog/bitweb/bitlong/26-MichaelSaylor：如何打造世界上拥有比特币最多的公司？为什么决定死后销毁个人私钥)
 
+ [27 清算偏好-比特币的波动性如何解决货币囤积的难题.](https://chicory2000.github.io/blog/bitweb/bitlong/27-清算偏好-比特币的波动性如何解决货币囤积的难题.)
+ 
+ [28 比特币到底对世界有什么好处](https://chicory2000.github.io/blog/bitweb/bitlong/28-比特币到底对世界有什么好处)
+ 
+ [29 BTC是智商筛选器](https://chicory2000.github.io/blog/bitweb/bitlong/29-BTC是智商筛选器)
+ 
 ## 郝思蒙（投资超级大佬）
 
 
