@@ -1,4 +1,4 @@
-Arthur Hayes：王者当立 BTC四年周期已经失效？
+# Arthur Hayes：王者当立 BTC四年周期已经失效？
 
 
 作者：[Arthur Hayes](https://cryptohayes.substack.com/p/long-live-the-king)，BitMEX创始人；编译：金色财经
