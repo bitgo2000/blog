@@ -32,7 +32,6 @@ Brave2049@Brave2049
 包叔@baoshu88
 Roufu@roufengzhifu
 财经真相@Rumoreconomy
-老蛮频道@laomanpindao
 财经数据库@caijingshujuku
 Pathfinder@Pathusa
 袁起Hashman@Aiallmaker
