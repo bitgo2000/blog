@@ -1,0 +1,5 @@
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"  
+    android:minWidth="200dip"  
+    android:minHeight="150dip"  
+    android:updatePeriodMillis="1000"  
+    android:initialLayout="@layout/appwidget_provider_blog" />

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:id="@+id/appwidget_blog_view"
+    android:layout_width="match_parent"
+    android:paddingLeft="3dip"
+    android:paddingRight="3dip"
+    android:layout_height="match_parent"
+    android:layout_gravity="center_vertical"
+    android:background="#00000000"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/appwidget_text_blog"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="0dip"
+        android:focusable="false"
+        android:includeFontPadding="false"
+        android:minLines="2"
+        android:shadowColor="#26000000"
+        android:shadowDy="3"
+        android:shadowRadius="6"
+        android:textColor="#ffffff"
+        android:textSize="12dip" />
+
+</LinearLayout>
